@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "itemName": "Pour Over Coffee",
+      "description": "Measured, weighed and poured. Great flavors.",
+      "dairyFree": true,
+      "price": 3.5,
+      "imageUrl": "pexels-orlovamaria-4946703.jpg"
+    },
+    {
+      "id": "2",
+      "itemName": "Latte",
+      "description": "A creamy latte made with espresso and steamed almond milk.",
+      "dairyFree": false,
+      "price": 4.5,
+      "imageUrl": "pexels-chevanon-312418.jpg"
+    },
+    {
+      "id": "3",
+      "itemName": "Cappuccino",
+      "description": "A classic cappuccino with equal parts espresso, steamed milk, and milk foam.",
+      "dairyFree": false,
+      "price": 4,
+      "imageUrl": "pexels-chevanon-302890.jpg"
+    },
+    {
+      "id": "4",
+      "itemName": "Espresso",
+      "description": "A single clean shot of espresso.",
+      "dairyFree": true,
+      "price": 2.55,
+      "imageUrl": "pexels-chevanon-302894.jpg"
+    },
+    {
+      "id": "5",
+      "itemName": "Avocado Toast",
+      "description": "Sourdough slice with a layer of avocado on top.",
+      "dairyFree": true,
+      "price": "5",
+      "imageUrl": "pexels-wendywei-1656685.jpg"
+    },
+    {
+      "id": "6",
+      "itemName": "Chocolate Chip Muffin",
+      "description": "Fresh & rich chocolate muffin.",
+      "dairyFree": false,
+      "price": 4.5,
+      "imageUrl": "pexels-brigitte-tohm-36757-131899.jpg"
+    }
+  ]
+}
