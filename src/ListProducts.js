@@ -34,7 +34,7 @@ function ListProducts(props) {
           className="d-flex justify-content-center align-items-center"
           style={{ height: "180vh" }}
         >
-          <img src={MainPics} alt="Main Picture" className="img-fluid" />
+          <img src={MainPics} alt="Main" className="img-fluid" />
         </Container>{" "}
         <br></br>
         <br></br>
